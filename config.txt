@@ -1,5 +1,6 @@
 #profile-update-interval: 1
 #profile-title: GhostVPN💎
+#profile-desc: наш ТГК https://t.me/GhostVpn_net
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab#🇨🇳China №1
 vless://eca1dfc4-1efe-47db-8f13-4264d219066b@de1.vepene.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=BgH8ba_xaAeLa5pyvwwJp6HT7i09aNoiAsE1HgTXXkU&sid=3275b9d98d3b69fc&type=tcp&headerType=none#🇩🇪Germany №1
 vless://736806de-16be-41c5-a219-15a3380fdc5c@159.195.26.49:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=zA_XAPCftAya2aqXHE6yTVOh82UUCtzSVHDPVqXhVQk&sid=f62ef7751dd96431&type=grpc#🇩🇪Germany №2
