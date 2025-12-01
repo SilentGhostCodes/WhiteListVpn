@@ -1,8 +1,8 @@
 #profile-update-interval: 1
 #profile-title: GhostVPN💎
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
-#profile-web-page-url: https://t.me/GhostVpn_net
 #support-url: https://t.me/GhostVpn_Support_Bot
+#profile-web-page-url: https://t.me/GhostVpn_net
 #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 vless://989c2f49-b349-4cd3-8431-c9a8dc02acd6@51.250.36.103:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zZ5Sjqub_ebiYOKfBJWRvpulesp9b7kYtM7dDE2YFyE&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=api-maps.yandex.ru&sid=75596e358c359f66#Финляндия🇫🇮🟢LTE-WhiteList🌟+№3 0/50GB
 vless://989c2f49-b349-4cd3-8431-c9a8dc02acd6@51.250.36.103:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zZ5Sjqub_ebiYOKfBJWRvpulesp9b7kYtM7dDE2YFyE&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=megafon.ru&sid=bd9442e1ce98c6#Финляндия🇫🇮🟢LTE-WhiteList🌟+№2 0/50GB
