@@ -4,7 +4,6 @@
 #support-url: https://t.me/GhostVpn_Support_Bot
 #profile-web-page-url: https://t.me/GhostVpn_net
 #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
-Бельгия🇧🇪🟢LTE+0/50GB
 vless://6bdd7074-6667-4838-9532-73f3f42b7575@176.122.25.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=belkacar.ru&fp=chrome&pbk=6aHhwF8F2heXOouBCSqHA9ltpReVfR_wl3IPu7h9tG8&sid=eef0d376&spx=%2F&type=tcp&headerType=none#Бельгия🇧🇪🟢LTE-WhiteList+0/50GB
 vless://6bdd7074-6667-4838-9532-73f3f42b7575@176.122.25.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=reg.mdparking.ru&fp=chrome&pbk=6aHhwF8F2heXOouBCSqHA9ltpReVfR_wl3IPu7h9tG8&sid=a0ed2f9616c0df&spx=%2F&type=tcp&headerType=none#Бельгия🇧🇪🟢LTE-WhiteList+№2+0/50GB
 vless://989c2f49-b349-4cd3-8431-c9a8dc02acd6@51.250.36.103:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zZ5Sjqub_ebiYOKfBJWRvpulesp9b7kYtM7dDE2YFyE&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=api-maps.yandex.ru&sid=75596e358c359f66#Финляндия🇫🇮🟢LTE-WhiteList🌟+№3 26.3/50GB
